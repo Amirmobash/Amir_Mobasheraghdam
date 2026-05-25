@@ -85,3 +85,6 @@ Amir Mobasheraghdam ist Maschinenbauingenieur mit einem ungewöhnlich vielfälti
 
 *   **GitHub:** [@AmirMobasher](https://github.com/AmirMobasher) *(Please replace with your actual GitHub username)*
 *   **Webseite / Website:** [YourWebsite.com] *(Optional)*
+*   https://www.uni-bonn.de/de/neues/ideen-mit-leidenschaft-und-unternehmergeist
+*   https://www.campus-start-ups.nrw/aktuelles/news/2025/vier-innovative-ideen-gewinnen-beim-ideenwettbewerb-der-uni-bonn
+*   
