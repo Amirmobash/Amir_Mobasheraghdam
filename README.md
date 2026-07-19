@@ -232,7 +232,8 @@ Weitere Informationen:
 
 * Campus Start-ups NRW – Ideenwettbewerb der Universität Bonn:
   https://www.campus-start-ups.nrw/aktuelles/news/2025/vier-innovative-ideen-gewinnen-beim-ideenwettbewerb-der-uni-bonn
-
+  
+* https://www.linkedin.com/posts/amirmobasher_python-opencv-computervision-activity-7464584127930036225-ueH2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA7tqwMBdIETigYQYzFJUPJd118UwwaoL_k
 ---
 
 ## 🛠️ Technologien / Technologies
