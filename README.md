@@ -1,5 +1,11 @@
 # Amir Mobasheraghdam
 
+
+<p align="center"><img src="docs/images/amir-mobasheraghdam-engineering-cad-portfolio.svg" alt="Amir Mobasheraghdam CAD engineering embedded hardware and industrial software projects" width="960" /></p>
+
+<sub>Conceptual illustration; not a verified hardware photograph or exact CAD export.</sub>
+
+
 **Mechanical Engineer (Maschinenbauingenieur), Python Developer and Author working with Raspberry Pi, Machine Learning, CAD, IoT and Industrial Automation.**
 
 I build practical engineering and software projects that connect mechanical design with Python, embedded systems, computer vision, automation and real-world prototyping. My work includes Raspberry Pi and Machine Learning projects, ESP8266 / NodeMCU development, RFID systems, CAD and 3D-printable designs, n8n workflows and industrial software concepts.
